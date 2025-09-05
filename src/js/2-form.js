@@ -1,7 +1,7 @@
 // Початковий об'єкт
 let formData = {
-  email: ' ',
-  message: ' ',
+  email: '',
+  message: '',
 };
 
 // Елементи форми
